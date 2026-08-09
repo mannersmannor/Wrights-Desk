@@ -33,5 +33,28 @@ The cardboard version typically stays together in the easel and display position
 
 Two, install studs. These are two little nubs that stick out of the outer piece and into holes on the inner piece. The inner piece thus has four holes, two holes for each of the two lock in positions, closed and open. You may place the studs anywhere on the distal angle section of the outer piece. They do not have to be perfectly symmetrical, unless you want. Then, only once those initial holes are made, can you place the desk in the closed position and mark through the holes where the holes on the inner piece go in the closed and open positions. Drill or cut those holes as well. Then get two bolts appx. 3/4 inch and thread one nut all the way on to each, place them into the outer piece from the inside, and thread the final nut onto the outside of the outside.
 
-Oh, and one more thing. Have fun and enjoy your new art studio that fits in a backpack. Try putting pencil cases, notebooks, rulers, and anything else inside before you put it in your backpack or laptop bag. Another upgrade you can make is make or use and old strap from a bag and some holes in the sides to make either a backpack or a shoulder bag. There are many ways to do it, so don't be afraid to experiment and see what works for you. Wider, longer, holes to make them bolt together,
+There is a third option, easier than two but better than one, that has one glaring problem. You can find the exact spot on the sidewall where a hole drilled through the inner and outer piece are lined up in the open, and also closed, position. Then, drill or cut a hole big enough for a standard pen or pencil. This way, with no additional parts, you can lock open in place, with the obvious downside that you have two pens dangling off of your tracing desk. You could also get dedicated wooden dowels or something. This also cuts two of the holes which I recommend to have if you want to turn it into a standalone bag, both for side-bag style, and backpack style. You don't need them for the side-bag, but since I like to use one continuous loop to strap my bag, that second hole gives me a way to get the loop from one side to the other without taking up storage space before running it to a mounting point further to the bottom of the leg.
+
+Oh, and one more thing. Have fun and enjoy your new art studio that fits in a backpack. Try putting pencil cases, notebooks, rulers, and anything else inside before you put it in your backpack or laptop bag. Another upgrade you can make is make or use and old strap from a bag and some holes in the sides to make either a backpack or a shoulder bag. There are many ways to do it, so don't be afraid to experiment and see what works for you. Wider, longer, holes to make them bolt together, more lights for more detailed image, anything you want. I personally like to put stickers on the legs and top, and drill a line of holes to place different color pens and pencils for easy access.
+
+                     Distal
+             _________________________
+          .  |                       |  .
+         / \ |                       | / \
+        /   \|       Proximal        |/   \
+       \                                   /
+        \                                 /      leg
+leg      \                               /
+          \            Face             / 
+           \                           /
+            \                         /
+            |________________________|
+
+                     Bottom
+
+
+Inside = As in, inside the box
+Outside = As in, outside the box
+Outer piece = Fits together as the bigger piece
+Inner piece =  Fits together inside the bigger piece
 

@@ -5,9 +5,11 @@ Within, find the skeleton plan for a Wright's Desk. All you need to do is print 
 
 Then, cut it out, being careful to only cut out your added custom details on one side, and following the printed line on the other. Then, fold it in half, making sure all of the edges line up. Then, cut your details from the primary side to the mirrored side.
 
-Now, carefully glue or tape this pattern to a piece of cardboard. If you are going to make multiple, be sure to keep this cardboard cutout as your template to trace multiple desks from. If you are only making one, it might make sense to just cut the pattern into your cardboard and fold that into your desk. Up to you!
+CARDBOARD
 
-Lastly, you can mark, cut, and score the bend lines with a straight edge. This may provide better results, but also may weaken it if further steps are not taken. Use a straight-edge. All of the lines should be obvious where they go, saving the fourth line which is on the upper middle section. Simply measure the edge which it will fold to be attached to and add about a millimeter for the length of the bend.
+Now, carefully glue or tape this pattern to a piece of cardboard, making sure that the lines are going up and down in line with the pattern so that the longer, tapered bends are more consistent. Also, small variations in the left/right alignment can cause tighter, or more loose bends in those areas. If you are going to make multiple, be sure to keep this cardboard cutout as your template to trace multiple desks from. If you are only making one, it might make sense to just cut the pattern into your cardboard and fold that into your desk. Up to you! 
+
+Lastly, you can mark, cut, and score the bend lines with a straight edge. This may provide better results, but also may weaken it if further steps are not taken. Use a straight-edge. Keep in mind, the grain of the cardboard should made the two long bends easy, leaving the short bends to need scoring more. All of the lines should be obvious where they go, saving the fourth line which is on the upper middle section. Simply measure the edge which it will fold to be attached to and add about a millimeter to account for the length of the bend.
 
 Then fold and tape or glue. I recommend hot glue.
 
@@ -19,4 +21,17 @@ Another weatherproofing/ strengthening technique is to do paper mache, but with 
 
 Oh, and one more thing. Have fun and enjoy your new art studio that fits in a backpack. Try putting pencil cases, notebooks, rulers, and anything else inside before you put it in your backpack or laptop bag. Another upgrade you can make is make or use and old strap from a bag and some holes in the sides to make either a backpack or a shoulder bag. There are many ways to do it, so don't be afraid to experiment and see what works for you.
 
-That's all for now.
+COROPLAST (PLASTIC SIGN MATERIAL)
+
+Now, carefully glue or tape this pattern to a piece of clear coroplast, making sure that the lines are going up and down in line with the pattern so that the longer, tapered bends are more consistent. Also, small variations in the left/right alignment can cause tighter, or more loose bends in those areas. If you are going to make multiple, be sure to keep this coroplast cutout as your template to trace multiple desks from. If you are only making one, it might make sense to just cut the pattern into your coroplast and fold that into your desk. Up to you! 
+
+Lastly, you can mark, cut, and score the bend lines with a straight edge. This may provide better results, but also may weaken it if further steps are not taken. Use a straight-edge. Alternatively, you may want to just use the edge of a table to line up the bend and a short 2 X 4 to crease it. Keep in mind, the grain of the cardboard should made the two long bends easy, leaving the short bends to need scoring more. All of the lines should be obvious where they go, saving the fourth line which is on the upper middle section. Simply measure the edge which it will fold to be attached to and add about a millimeter to account for the length of the bend.
+
+Then fold and tape or glue. I recommend hot glue followed by a careful application of tin-foil tape to be safe. You can get lights at many major hardware stores but I recommend ordering some magnetic battery powered under-cabinet lights. These last for hours, are bright, adjustable brightness, adjustable color (warm, cool, medium), can be magnetically removed for use elsewhere and charging, they stay in place, they diffuse evenly, and most of all are lightweight and often quite attractive, since you can see the light from the outside as well since the desk is transparent.
+
+The cardboard version typically stays together in the easel and display position quite well with no additional securment. However, plastic is much more sticky and tends not to create good contact to hold the position in place. There are two good solution which I have found. One, put something friction-ey on the outer, distal fold of the top angle portion of the inner piece as well as the inner, distal fold of the top angle portion of the outer piece. This could be duct tape, grip tape, glued rubber, anything to get it to stick and wedge. 
+
+Two, install studs. These are two little nubs that stick out of the outer piece and into holes on the inner piece. The inner piece thus has four holes, two holes for each of the two lock in positions, closed and open. You may place the studs anywhere on the distal angle section of the outer piece. They do not have to be perfectly symmetrical, unless you want. Then, only once those initial holes are made, can you place the desk in the closed position and mark through the holes where the holes on the inner piece go in the closed and open positions. Drill or cut those holes as well. Then get two bolts appx. 3/4 inch and thread one nut all the way on to each, place them into the outer piece from the inside, and thread the final nut onto the outside of the outside.
+
+Oh, and one more thing. Have fun and enjoy your new art studio that fits in a backpack. Try putting pencil cases, notebooks, rulers, and anything else inside before you put it in your backpack or laptop bag. Another upgrade you can make is make or use and old strap from a bag and some holes in the sides to make either a backpack or a shoulder bag. There are many ways to do it, so don't be afraid to experiment and see what works for you. Wider, longer, holes to make them bolt together,
+

@@ -37,20 +37,20 @@ There is a third option, easier than two but better than one, that has one glari
 
 Oh, and one more thing. Have fun and enjoy your new art studio that fits in a backpack. Try putting pencil cases, notebooks, rulers, and anything else inside before you put it in your backpack or laptop bag. Another upgrade you can make is make or use and old strap from a bag and some holes in the sides to make either a backpack or a shoulder bag. There are many ways to do it, so don't be afraid to experiment and see what works for you. Wider, longer, holes to make them bolt together, more lights for more detailed image, anything you want. I personally like to put stickers on the legs and top, and drill a line of holes to place different color pens and pencils for easy access.
 
-                     Distal
-             _________________________
-          .  |                       |  .
-         / \ |                       | / \
-        /   \|       Proximal        |/   \
-       \                                   /
-leg     \                                 /      leg
-         \                               /
-          \            Face             / 
-           \                           /
-            \                         /
-            |________________________|
+                       Distal
+              _________________________
+           .  |                       |  .
+          / \ |                       | / \
+         /   \|       Proximal        |/   \
+        \                                   /
+ leg     \                                 /      leg
+          \                               /
+           \            Face             / 
+            \                           /
+             \                         /
+              |_______________________|
 
-                     Bottom
+                       Bottom
 
 
 Inside = As in, inside the box

@@ -43,8 +43,8 @@ Oh, and one more thing. Have fun and enjoy your new art studio that fits in a ba
          / \ |                       | / \
         /   \|       Proximal        |/   \
        \                                   /
-        \                                 /      leg
-leg      \                               /
+leg     \                                 /      leg
+         \                               /
           \            Face             / 
            \                           /
             \                         /

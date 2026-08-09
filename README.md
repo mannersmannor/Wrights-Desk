@@ -1,7 +1,7 @@
 # Wrights-Desk
 This is your destination for all things Wrights Desk.
 
-Within, find the skeleton plan for a Wright's Desk. All you need to do is print it out, say at a library with a large format printer, a university, or a printing store. Then, modify it how you like by drawing on it. I like to add decorative scrolls near the bottom edge.
+Within, find the skeleton plan for a Wright's Desk. All you need to do is print it out with a large format printer (being sure to click "Actual Size"), say at a library, a university, or a printing store. Then, modify it how you like by drawing on it. I like to add decorative scrolls near the bottom edge, but sky's the limit. The only thing I caution is try to remove material, not add, and try to leave a little at the top on the sides and a little on the bottom on the sides to help everything line up. Holes, cutouts, handles, whatever you want to make room for, you can try.
 
 Then, cut it out, being careful to only cut out your added custom details on one side, and following the printed line on the other. Then, fold it in half, making sure all of the edges line up. Then, cut your details from the primary side to the mirrored side.
 

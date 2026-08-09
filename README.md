@@ -36,7 +36,7 @@ Two, install studs. These are two little nubs that stick out of the outer piece 
 There is a third option, easier than two but better than one, that has one glaring problem. You can find the exact spot on the sidewall where a hole drilled through the inner and outer piece are lined up in the open, and also closed, position. Then, drill or cut a hole big enough for a standard pen or pencil. This way, with no additional parts, you can lock open in place, with the obvious downside that you have two pens dangling off of your tracing desk. You could also get dedicated wooden dowels or something. This also cuts two of the holes which I recommend to have if you want to turn it into a standalone bag, both for side-bag style, and backpack style. You don't need them for the side-bag, but since I like to use one continuous loop to strap my bag, that second hole gives me a way to get the loop from one side to the other without taking up storage space before running it to a mounting point further to the bottom of the leg.
 
 Oh, and one more thing. Have fun and enjoy your new art studio that fits in a backpack. Try putting pencil cases, notebooks, rulers, and anything else inside before you put it in your backpack or laptop bag. Another upgrade you can make is make or use and old strap from a bag and some holes in the sides to make either a backpack or a shoulder bag. There are many ways to do it, so don't be afraid to experiment and see what works for you. Wider, longer, holes to make them bolt together, more lights for more detailed image, anything you want. I personally like to put stickers on the legs and top, and drill a line of holes to place different color pens and pencils for easy access.
-
+```
                        Distal
               _________________________
            .  |                       |  .
@@ -51,7 +51,7 @@ Oh, and one more thing. Have fun and enjoy your new art studio that fits in a ba
               |_______________________|
 
                        Bottom
-
+```
 
 Inside = As in, inside the box
 Outside = As in, outside the box
